@@ -21,6 +21,7 @@ baseurl: "/cs.u-gakugei.ac.jp" # the subpath of your site, e.g. /blog
 url: "https://cs-u-gakugei-ac-jp.github.io/cs.u-gakugei.ac.jp" # the base hostname & protocol for your site, e.g. http://example.com
 
 timezone: Asia/Tokyo
+lang: ja
 
 twitter_username: jekyllrb
 github_username:  jekyll
