@@ -1,17 +1,11 @@
 ---
 layout: home
-title: 東京学芸大学 計算機科学研究室 (宮寺研究室)
 ---
 
-# メンバー
+* [研究室について](about)
+* [メンバー](members/)
+* [アクセス](access)
 
-* [宮寺 庸造 教授](members/miyadera/)
-* 佐藤 克己
-* 石井 将太
-* 佐藤 綜一郎
-* 池田 大佳
-* 菊地 万里菜
-* 久保 徹朗
-* 坂口 大
-* 山本 怜央
-* 横内 颯
+<iframe
+src="https://calendar.google.com/calendar/embed?src=miyadera.labo%40gmail.com&ctz=Asia%2FTokyo" 
+style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
