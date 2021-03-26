@@ -3,7 +3,7 @@ layout: page
 title: メンバー
 ---
 
-* [宮寺 庸造 教授](members/miyadera/)
+* [宮寺 庸造 教授](miyadera/)
 * 佐藤 克己
 * 石井 将太
 * 佐藤 綜一郎
